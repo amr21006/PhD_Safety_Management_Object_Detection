@@ -1,0 +1,34 @@
+path: /home/utopia/safety-merge/output/dataset
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: Hardhat
+  1: Vest
+  2: Safety Boots
+  3: Not_Wearing_Safety_Equipment
+  4: Goggles
+  5: Gloves
+  6: Mask
+  7: Workers
+  8: Scaffolding
+  9: No_Scaffold
+  10: Fence
+  11: Safety_cone
+  12: Machinery
+  13: Board
+  14: Rebar
+  15: Wood
+  16: Ebox
+  17: Hopper
+  18: Hook
+  19: Brick
+  20: Toeboard
+  21: Cutter
+  22: Slogan
+  23: Handcart
+  24: Fall-Detected
+  25: Opening_hole
+  26: Fire
+  27: Smoke
